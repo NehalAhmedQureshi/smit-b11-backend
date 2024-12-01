@@ -1,1 +1,1 @@
-## [This is a backend repo in which i deploy all code those i am learning](https://github.com/nehalahmedqureshi/SMIT-B-11-WMA-213857/)
+## [Here is a repo in which i deploy all code those i am learned such as html , css , bootstrap , firebase , typescript,js , react , node , much more....](https://github.com/nehalahmedqureshi/SMIT-B-11-WMA-213857/)
